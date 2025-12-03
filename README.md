@@ -21,7 +21,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| {======|_|"""""|_|"""""
 
 
 ```python
-# this is in J(ess)SON format
+# Have you heard of J(ess)SON format?
 jess = {
   "pronouns": "she" | "her",
   "fun_fact": "I used to play games professionally! I also have 2 papers published! Many hats wearer 🎩",
